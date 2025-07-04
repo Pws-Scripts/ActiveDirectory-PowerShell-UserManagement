@@ -1,0 +1,17 @@
+Move to AD and Setting AD user Properties
+-----------------------------------------
+
+Here will be setting properties for users in AD.
+
+# Remember the command sheet online will teach how to use these and what values are accepted by <Parameters>
+
+*Get-ADUser -Identity 'User2'
+*Set-ADUser -Identity "User2" -USerprincipleName "User2@local.qhamaninanderebe.com"
+Then get-the user to verifie that.
+
+
+#Set Department
+
+Get-ADUser -Identity "User" | Set-ADUser -Department "Sales"
+Get-ADUser: To verifie
+
