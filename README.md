@@ -35,9 +35,8 @@ This repo contains PowerShell scripts and practical demonstrations for managing 
 ### 🔹 2. Move User to Another OU
 | Step | Description | Preview |
 |------|-------------|---------|
-| 1 | User selected from existing OU | ![](./screenshots/move-user-ou/move-step1.png) |
-| 2 | Moving to new OU | ![](./screenshots/move-user-ou/move-step2.png) |
-| 3 | Confirmation result | ![](./screenshots/move-user-ou/move-result.png) |
+| 2 | Moving to new OU | ![](./Move_User_Between_OUs/SCNR__Prop.png) |
+
 
 ---
 
