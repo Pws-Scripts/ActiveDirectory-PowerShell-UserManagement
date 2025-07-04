@@ -28,9 +28,7 @@ This repo contains PowerShell scripts and practical demonstrations for managing 
 ### 🔹 1. Set UserPrincipalName via Pipeline
 | Step | Description | Preview |
 |------|-------------|---------|
-| 1 | Listing all AD users | ![](./User_Properties/SCNR__Prop.png) |
-| 2 | Setting UPN using pipeline | ![](./screenshots/set-upn/upn-step2.png) |
-| 3 | Result with updated UPNs | ![](./screenshots/set-upn/upn-result.png) |
+| 1 | Get AD users properties | ![](./User_Properties/SCNR__Prop.png) |
 
 ---
 
