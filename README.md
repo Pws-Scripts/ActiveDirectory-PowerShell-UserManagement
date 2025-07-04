@@ -46,7 +46,7 @@ This repo contains PowerShell scripts and practical demonstrations for managing 
 ### 🔹 3. Filter Users by Department
 | Step | Description | Preview |
 |------|-------------|---------|
-| 1 | Filtering users using `-Filter` | ![](./Filter and Where-Object/SCNR--Filter_1.png.png) |
+| 1 | Filtering users using `-Filter` | ![](/FilterandWhere-Object/SCNR--Filter_1.png.png) |
 | 2 | Refined results with `Where-Object` | ![](./screenshots/filter-users/filter-step2.png) |
 | 3 | Displaying selected properties | ![](./screenshots/filter-users/filter-result.png) |
 
